@@ -1,3 +1,10 @@
+# local hidden dir for
+# - github actions runner
+# - cross compiler toolchain
+# - ...
+/local/
+
+
 *.o
 build/
 .vscode/
