@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# For later versions of
+# the scp utility, if you
+# are running into the compatibilty
+# issue ('couldnt find sftp server'),
+# overwrite scp with this script
+# by prepending ./bin to your PATH:
+#
+# $ export PATH=$(pwd)/bin:$PATH
+
+/usr/bin/scp -O $@
