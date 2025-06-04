@@ -6,7 +6,7 @@ It also contains instructions related to modifying your buildroot project to use
 
 ## Assignment Instructions
 
-- [Instructions for this Assignment](https://www.coursera.org/learn/linux-system-programming-introduction-to-buildroot/supplement/fdk6R/assignment-4-part-2-instructions)
+- [Instructions for this Assignment](https://www.coursera.org/learn/linux-system-programming-introduction-to-buildroot/supplement/oLYlx/assignment-5-part-2-instructions)
 
 ## Fixing scp issue "couldn't find sftp"
 
